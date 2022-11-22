@@ -9,7 +9,7 @@ let server: Handler
 
 async function setupSwagger(app: INestApplication) {
   const documentBuilder = new DocumentBuilder()
-    .setTitle('Web3 Parser')
+    .setTitle('AWS-KMS Parser')
     .setDescription('My REST API Documentation')
     .setVersion('1.0.0')
 
