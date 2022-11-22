@@ -77,7 +77,7 @@ Nest is [MIT licensed](LICENSE).
 - aws-serverless-express : This library enables you to utilize AWS Lambda and Amazon API Gateway to respond to web and API requests using your existing Node.js
 - aws-lambda: AWS Lambda lets you run code without provisioning or managing servers.
 - serverless-plugin-typescript: Serverless plugin for Typescript support that works out of the box without the need to install any other compiler or plugins.
-- serverless-plugin-optimize: Plugin to transpile and minify your code                               
+- serverless-plugin-optimize: Plugin to transpile and minify your code
 - AWS SDK for JavaScript : Provide aws intergration to your project.
 - ASN1js : ASN1js is the first library for BER encoding/decoding in Javascript designed for browser use. BER is the basic encoding rules for ASN.1 that all others are based on, DER is the encoding rules used by PKI applications - it is a subset of BER. The ASN1js library was tested against freely available ASN.1:2008 test suite, with some limitations related to JavaScript language.
 - js-sha3: A simple SHA-3 / Keccak / Shake hash function for JavaScript supports UTF-8 encoding.
@@ -85,5 +85,5 @@ Nest is [MIT licensed](LICENSE).
 
 # To Test
 
-- visit: (https://mvcc3gww6l.execute-api.ap-northeast-1.amazonaws.com/dev/parser/wallet-address/9d700837-ea26-4c86-845c-d00893a96303)
+- visit: (https://ww0duaejjf.execute-api.ap-northeast-1.amazonaws.com/dev/parser/wallet-address/9d700837-ea26-4c86-845c-d00893a96303)
 - just add your created key id after the wallet-address/{key-id}
